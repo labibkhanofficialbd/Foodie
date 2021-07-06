@@ -44,19 +44,20 @@ a{
 .about-div{
     display: flex;
     padding-left: 150px;
-    padding-top: 100px;
+    padding-top: 50px;
     /* padding-bottom: 70px; */
-    
+    align-items: center;
 }
 .about-section{
     background-image: url(img/sec-banner.png);
     background-size: cover;
 }
 .about{
-    padding-top: 50px;
+    
     /* padding-left: 200px; */
-    margin-left: 200px;
+    padding-left: 200px;
     padding-right: 100px;
+
 }
 .about-img{
     width: 100%;
