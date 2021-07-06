@@ -1,0 +1,112 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+span{
+    color: orangered;
+}
+h1{
+    font-size: 40px;
+    padding: 0;
+    margin: 0;
+}
+.person1{
+    width: 70%;
+    padding-left: 70px;
+    align-items: center;
+}
+.hero-div{
+    display: flex;
+    padding-top: 100px;
+    margin-left: 150px;
+    
+    margin-bottom: 70px;
+}
+.hero-content{
+    
+    
+    padding-top: 50px;
+    
+}
+.hero-content p{
+    padding-bottom: 30px;
+}
+a{
+    background-image: linear-gradient(orange, orangered);
+    text-decoration: none;
+    color: white;
+    padding: 10px 40px;
+    font-weight: 700;
+    border-radius: 20px;
+    
+}
+.about-div{
+    display: flex;
+    padding-left: 150px;
+    padding-top: 100px;
+    /* padding-bottom: 70px; */
+    
+}
+.about-section{
+    background-image: url(img/sec-banner.png);
+    background-size: cover;
+}
+.about{
+    padding-top: 50px;
+    /* padding-left: 200px; */
+    margin-left: 200px;
+    padding-right: 100px;
+}
+.about-img{
+    width: 100%;
+    padding-left: 30px;
+}
+.about p{
+    padding-bottom: 30px;
+}
+p{
+    color: gray;
+}
+.title-div{
+    text-align: center;
+    padding-top: 50px;
+}
+.blog-img{
+    width: 88%;
+    padding: 20px;
+}
+.blog h2{
+    padding-left: 20px;
+}
+.blog p{
+    padding-left: 20px;
+    padding-right: 30px;
+}
+.recipy-blog{
+    display: flex;
+    margin-left: 50px;
+    margin-top: 60px;
+    margin-bottom: 50px;
+}
+.blog{
+    box-shadow: 1px 1px 10px rgb(212, 219, 217);
+    margin-left: 50px;
+    border-radius: 20px;
+    width: 350px;
+}
+.status{
+    margin-top: 150px;
+    padding-top: 50px;
+    display: flex;
+    align-items: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    box-shadow: 1px 1px 10px rgb(212, 219, 217);
+    border-radius: 20px;
+    padding-bottom: 30px;
+    margin-bottom: 50px;
+}
+.status-value{
+    padding-left: 200px;
+}
