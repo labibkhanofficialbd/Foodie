@@ -108,5 +108,26 @@ p{
     margin-bottom: 50px;
 }
 .status-value{
-    padding-left: 200px;
+    padding-left: 180px;
+    
+}
+.reviews{
+    box-shadow: 1px 1px 10px rgb(212, 219, 217);
+    margin-left: 50px;
+    border-radius: 20px;
+    width: 350px;
+    padding: 20px;
+    text-align: center;
+    
+}
+.review-div{
+    display: flex;
+    margin-bottom: 50px;
+    padding-bottom: 50px;
+}
+footer{
+    text-align: center;
+    background: black;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
